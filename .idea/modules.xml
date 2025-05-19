@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Forest-ttk-theme/.idea/Forest-ttk-theme.iml" filepath="$PROJECT_DIR$/../Forest-ttk-theme/.idea/Forest-ttk-theme.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Pythontraining.iml" filepath="$PROJECT_DIR$/.idea/Pythontraining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tkinter-excel-app/.idea/tkinter-excel-app.iml" filepath="$PROJECT_DIR$/../tkinter-excel-app/.idea/tkinter-excel-app.iml" />
     </modules>
   </component>
 </project>

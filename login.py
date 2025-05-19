@@ -21,7 +21,7 @@ user_label = tkinter.Label(frame, text="username", bg='#333333', fg='white')
 user_entry = tkinter.Entry(frame)
 password_entry = tkinter.Entry(frame, show="****")
 password_label = tkinter.Label(frame, text="Password", bg='#333333', fg='white')
-login_button = tkinter.Button(frame, text="login", bg='orange', fg='black', command=login)
+login_button = tkinter.Button(frame, text="login", bg='#009900', fg='black', command=login)
 
 login_label.grid(row=0, column=1, columnspan=2, sticky='news', pady='30')
 user_label.grid(row=1, column=0)
